@@ -8,11 +8,11 @@
 <b>Express:</b> npm install express<br>
 <b>Mongoose:</b> npm install mongoose<br>
 
-<h2>SETUP MONGODB MANUALLY:</h2>
+<h2>SETUP MONGODB MANUALLY: (Not necessary)</h2>
 *Run MongoDB on port 27017.*
 
-**1. Create DB "wizkey"** use heroes
-**2. Initialize collection "wizkey"** db.heroes.insert({test: "test"})
+**1. Create DB "heroes"** use heroes
+**2. Initialize collection "heroes"** db.heroes.insert({test: "test"})
 
 **Start with:** node app.js
 
