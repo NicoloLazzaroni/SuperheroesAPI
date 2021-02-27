@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "Express": "^3.0.1",
+    "md5": "^2.3.0",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}
