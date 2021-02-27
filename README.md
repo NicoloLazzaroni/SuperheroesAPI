@@ -1,12 +1,12 @@
 <h1>Requirements:</h1>
 
 <h2>NODE MODULES:</h2>
-**MongoDB:** npm install mongodb
-**Request:** npm install request
-**MD5:** npm install md5
-**Cors:** npm install cors
-**Express:** npm install express
-**Mongoose:** npm install mongoose
+<b>MongoDB:</b> npm install mongodb<br>
+<b>Request:</b> npm install request<br>
+<b>MD5:</b> npm install md5<br>
+<b>Cors:</b> npm install cors<br>
+<b>Express:</b> npm install express<br>
+<b>Mongoose:</b> npm install mongoose<br>
 
 <h2>SETUP MONGODB MANUALLY:</h2>
 *Run MongoDB on port 27017.*
