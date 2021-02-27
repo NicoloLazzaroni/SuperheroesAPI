@@ -33,7 +33,7 @@ Disponibile su https://developer.marvel.com
 
 English:
 
-The project contact the Marvel APIs to download the list of heroes with name and description, saves it on MongoDB and then generates a GET REST Endpoint to obtain the data in JSON type. To access the endpoint the user will need to use a Marvel public key, the datas are already present in the database, this process only acts as an OAuth authenticator.
+The project contacts the Marvel APIs to download the list of heroes with name and description, saves it on MongoDB and then generates a GET REST Endpoint to obtain the data in JSON type. To access the endpoint the user will need to use a Marvel public key, the datas are already present in the database, this process only acts as an OAuth authenticator.
 
 The APIs are available at {SERVER}/heroes/{KEY} to receive the whole list and {SERVER}/heroes/{KEY}/{ID} to receive only the hero with that ID.
 
