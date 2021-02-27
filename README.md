@@ -1,6 +1,6 @@
 <h1>Requirements:</h1>
 
-<h2>NODE MODULES:<h2>
+<h2>NODE MODULES:</h2>
 **MongoDB:** npm install mongodb
 **Request:** npm install request
 **MD5:** npm install md5
@@ -8,7 +8,7 @@
 **Express:** npm install express
 **Mongoose:** npm install mongoose
 
-<h2>SETUP MONGODB MANUALLY:<h2>
+<h2>SETUP MONGODB MANUALLY:</h2>
 *Run MongoDB on port 27017.*
 
 **1. Create DB "wizkey"** use heroes
