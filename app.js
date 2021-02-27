@@ -1,8 +1,8 @@
 //Marvel GRABBER
 
 //API
-const PUBLIC_KEY = "{PUBLIC_KEY}"; //Remove brackets
-const PRIVATE_KEY = "{PRIVATE_KEY}"; //Remove brackets
+const PUBLIC_KEY = "PUBLIC_KEY HERE"; 
+const PRIVATE_KEY = "PRIVATE_KEY HERE"; 
 
 
 
