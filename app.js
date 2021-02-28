@@ -98,7 +98,7 @@ const HeroesModel = Mongoose.model("heroes", {
 
 app.get("/heroes", function (req, res) {
   res.send("Invalid Public API Key. <br>Format: /heroes/{KEY}. <br>Get a Key on Marvel.com");
-  console.log(`API Called (/).`);
+  console.log(`API Called (/heroes). Invalid API Key.`);
 });
 
 app.get("/heroes/:pa", async (request, response) => {
