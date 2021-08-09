@@ -17,7 +17,7 @@
 **Start with:** node app.js
 
 
-Italiano:
+<h1>Italiano:</h1>
 
 Il progetto richiede alle API di Marvel la lista di eroi con nome e descrizione, lo salva su MongoDB e genera un REST Endpoint  di tipo GET per ottenere i dati in tipo JSON. Per accedere all'endpoint l'utente dovrà usare una chiave pubblica di Marvel, i dati sono già presenti sul database, questo processo funge solo come autenticazione OAuth.
 
@@ -31,7 +31,7 @@ Ricordarsi di inserire la chiave pubblica e privata nei field PUBLIC_KEY e PRIVA
 Disponibile su https://developer.marvel.com
 
 
-English:
+<h1>English:</h1>
 
 The project contacts the Marvel APIs to download the list of heroes with name and description, saves it on MongoDB and then generates a GET REST Endpoint to obtain the data in JSON type. To access the endpoint the user will need to use a Marvel public key, the datas are already present in the database, this process only acts as an OAuth authenticator.
 
