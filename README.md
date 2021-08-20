@@ -11,8 +11,7 @@
 <h2>SETUP MONGODB MANUALLY: (Not necessary)</h2>
 *Run MongoDB on port 27017.*
 
-**1. Create DB "heroes"** use heroes
-
+**1. Create DB "heroes"** use heroes<br>
 **2. Initialize collection "heroes"** db.heroes.insert({test: "test"})
 
 **Start with:** node app.js
