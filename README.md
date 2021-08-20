@@ -12,6 +12,7 @@
 *Run MongoDB on port 27017.*
 
 **1. Create DB "heroes"** use heroes
+
 **2. Initialize collection "heroes"** db.heroes.insert({test: "test"})
 
 **Start with:** node app.js
